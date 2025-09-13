@@ -1,0 +1,9 @@
+---
+description:
+globs:
+alwaysApply: true
+---
+
+This contain collections of tampermonkey script.
+
+Each js script must be a working, valid, tampermonkey script for Chrome.
